@@ -1,0 +1,3 @@
+s_readline();
+s_string("OVERFLOW10 ");
+s_string_variable("FUZZ");
