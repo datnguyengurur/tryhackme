@@ -1,0 +1,3 @@
+# Nmap 7.91 scan initiated Fri Sep 17 11:45:02 2021 as: nmap -p- -sC -sV -oN nmap/all_ports
+WARNING: No targets were specified, so 0 hosts scanned.
+# Nmap done at Fri Sep 17 11:45:02 2021 -- 0 IP addresses (0 hosts up) scanned in 0.51 seconds
